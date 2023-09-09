@@ -573,7 +573,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 *   Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues,stars)
 
 *   Showing additional stats
 
